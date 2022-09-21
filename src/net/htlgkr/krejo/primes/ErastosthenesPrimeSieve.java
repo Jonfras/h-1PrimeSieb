@@ -11,5 +11,6 @@ public class ErastosthenesPrimeSieve implements PrimeSieve {
         ErastosthenesPrimeSieve e = new ErastosthenesPrimeSieve(20);
         System.out.println(number + " ist eine Primzahl : " +PrimeSieve.isPrime(number));
         PrimeSieve.printPrimes();
+        System.out.println("commit 4");
     }
 }
